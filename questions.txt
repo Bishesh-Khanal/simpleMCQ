@@ -1,0 +1,3 @@
+1. What is the color of a banana? (a) Blue (b) Orange (c) Yellow
+2. What is the color of an apple? (a) Red/Green (b) Pink (c) Purple
+3. How many months are in a year? (a) 10 (b) 12 (c) 11
